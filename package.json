@@ -11,7 +11,7 @@
     "build": "bun run build.ts"
   },
   "dependencies": {
-    "5visuals": "1.2.0",
+    "5visuals": "1.2.1",
     "@hookform/resolvers": "^4.1.0",
     "@radix-ui/react-label": "^2.1.2",
     "@radix-ui/react-select": "^2.1.6",

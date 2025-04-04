@@ -1,4 +1,4 @@
-import { lorenzSystem, flowField, doublePendelum } from "5visuals";
+import { lorenzSystem, flowField, doublePendelum } from "../node_modules/5visuals/src";
 import { Visual } from "./components/ui/Visual";
 import "./index.css";
 

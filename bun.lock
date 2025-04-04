@@ -4,7 +4,7 @@
     "": {
       "name": "bun-react-template",
       "dependencies": {
-        "5visuals": "1.2.0",
+        "5visuals": "1.2.1",
         "@hookform/resolvers": "^4.1.0",
         "@radix-ui/react-label": "^2.1.2",
         "@radix-ui/react-select": "^2.1.6",
@@ -30,7 +30,7 @@
     },
   },
   "packages": {
-    "5visuals": ["5visuals@1.2.0", "", { "dependencies": { "@types/p5": "^1.7.6", "eslint": "^9.23.0", "p5": "^1.11.3", "prettier": "^3.5.3", "tsup": "^8.4.0" }, "bin": { "visuals": "cli.ts" } }, "sha512-lqDWA9SlmlC9htlUacOe6itdBli4RqIoFMkjOwTavKV/8RBffkDnuQ4sFgQVSZ3nJkzijaF1TvUYUStSltPHlg=="],
+    "5visuals": ["5visuals@1.2.1", "", { "dependencies": { "@types/p5": "^1.7.6", "eslint": "^9.23.0", "p5": "^1.11.3", "prettier": "^3.5.3", "tsup": "^8.4.0" }, "bin": { "visuals": "cli.ts" } }, "sha512-ZvZ8nOlTHrCMxQtQWa4svD5UEblwwckMpQsWxp9YrlRbL2j2qnLFsr8m6f3naOYCNq9/SQHFetrKAmXKSh/jlw=="],
 
     "@esbuild/aix-ppc64": ["@esbuild/aix-ppc64@0.25.2", "", { "os": "aix", "cpu": "ppc64" }, "sha512-wCIboOL2yXZym2cgm6mlA742s9QeJ8DjGVaL39dLN4rRwrOgOyYSnOaFPhKZGLb2ngj4EyfAFjsNJwPXZvseag=="],
 
